@@ -7,6 +7,6 @@
     <string name="sign_in">Sign in</string>
     <string name="no_account">Don\`t have an account?</string>
     <string name="sign_up">Sign Up</string>
-    <string name="email_desc">Email Icon</string>
+    <string name="email_icone">Email Icon</string>
     <string name="senha_desc">Lock Icon</string>
 </resources>

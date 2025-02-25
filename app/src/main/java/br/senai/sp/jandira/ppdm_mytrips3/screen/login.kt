@@ -94,7 +94,7 @@ fun login(modifier: Modifier = Modifier) {
                     leadingIcon = {
                         Icon(
                             painter = painterResource(id = R.drawable.email),
-                            contentDescription = stringResource(id = R.string.email_desc),
+                            contentDescription = stringResource(id = R.string.email_icone),
                             modifier = Modifier.size(24.dp)
                         )
                     }
@@ -112,7 +112,7 @@ fun login(modifier: Modifier = Modifier) {
                     leadingIcon = {
                         Icon(
                             painter = painterResource(id = R.drawable.padlock),
-                            contentDescription = stringResource(id = R.string.email_desc),
+                            contentDescription = stringResource(id = R.string.email_icone),
                             modifier = Modifier.size(24.dp)
                         )
                     }
